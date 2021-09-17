@@ -4,11 +4,11 @@
 Full Stack Developer :heart: from Argentina to :earth_americas:
 </h2>
 
-<p>
-  Hi visitor 👋 ! I'm Fede, a full stack enthusiast with a JavaScript based formation. You can see the mainly languages/frameworks/tools wich I work with below!. Always atractted by tech, I'm in IT after five years studying Engineering. I Love adding value using my head in stead of my physical effort, working with people with a high level of energy,
-  commited to the highest quality's standards.
+<pre>
+  Hi visitor 👋 ! I'm Fede, a full stack enthusiast with a JavaScript based formation. You can see the mainly languages/frameworks/tools wich I work with below!  
+  Always atractted by tech, I'm in IT after five years studying Engineering. I Love adding value using my head in stead of my physical effort, working with people with a high level of energy,commited to the highest quality's standards.
   
-</p>
+</pre>
 
 &nbsp;&nbsp;
 
@@ -34,16 +34,11 @@ Full Stack Developer :heart: from Argentina to :earth_americas:
 &nbsp;
 
 ## :pushpin: My proyects
-<h3>Videogames Web App</h3>
-<p>
-  <a><img width="40%"  src="https://github.com/fedecontegrand/fedecontegrand/blob/main/images/petStore/PI%20henry%201%20(3).png"></a>
-  <a><img width="40%"  src="https://github.com/fedecontegrand/fedecontegrand/blob/main/images/petStore/PI%20henry%202.png"></a>
-  <a><img width="40%"  src="https://github.com/fedecontegrand/fedecontegrand/blob/main/images/petStore/PI%20henry%203.png"></a>
-  <a><img width="40%" src="https://github.com/fedecontegrand/fedecontegrand/blob/main/images/petStore/PI%20henry%204.png"></a>
-  <a><img width="40%"  src="https://github.com/fedecontegrand/fedecontegrand/blob/main/images/petStore/PI%20henry%205.png"></a>
-</p>
-
+<div>
 <h3>Ecommerce WineStore</h3>
+<a href="https://youtu.be/Ex7Us7j5gOY" target="_blank">Click to Video</a>
+<a href="https://pf-vinos-ecommerce.vercel.app/" target="_blank">Click to Page</a>
+</div>
 <p>
  <a><img width="40%"  src="https://github.com/fedecontegrand/fedecontegrand/blob/main/images/pedidotopia/image001.jpg"></a>
  <a><img width="40%"  src="https://github.com/fedecontegrand/fedecontegrand/blob/main/images/pedidotopia/image002.jpg"></a>
@@ -53,6 +48,15 @@ Full Stack Developer :heart: from Argentina to :earth_americas:
  <a><img width="40%"  src="https://github.com/fedecontegrand/fedecontegrand/blob/main/images/pedidotopia/image011.jpg"></a>
  <a><img width="40%"  src="https://github.com/fedecontegrand/fedecontegrand/blob/main/images/pedidotopia/image016.jpg"></a>
 </p> 
+<h3>Videogames Web App</h3>
+<p>
+  <a><img width="40%"  src="https://github.com/fedecontegrand/fedecontegrand/blob/main/images/petStore/PI%20henry%201%20(3).png"></a>
+  <a><img width="40%"  src="https://github.com/fedecontegrand/fedecontegrand/blob/main/images/petStore/PI%20henry%202.png"></a>
+  <a><img width="40%"  src="https://github.com/fedecontegrand/fedecontegrand/blob/main/images/petStore/PI%20henry%203.png"></a>
+  <a><img width="40%" src="https://github.com/fedecontegrand/fedecontegrand/blob/main/images/petStore/PI%20henry%204.png"></a>
+  <a><img width="40%"  src="https://github.com/fedecontegrand/fedecontegrand/blob/main/images/petStore/PI%20henry%205.png"></a>
+</p>
+
 &nbsp;
 
 ## :paperclip: How to reach me:
