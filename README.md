@@ -4,11 +4,11 @@
 Full Stack Developer :heart: from Argentina to :earth_americas:
 </h2>
 
-<pre>
-  Hi visitor 👋 ! I'm Fede, a full stack enthusiast with a JavaScript based formation. You can see the mainly languages/frameworks/tools wich I work with below!  
+<p>
+  Hi visitor 👋 ! I'm Fede, a full stack enthusiast with a JavaScript based formation. You can see the mainly languages/frameworks/tools wich I work with below! <br></br>
   Always atractted by tech, I'm in IT after five years studying Engineering. I Love adding value using my head in stead of my physical effort, working with people with a high level of energy,commited to the highest quality's standards.
   
-</pre>
+</p>
 
 &nbsp;&nbsp;
 
