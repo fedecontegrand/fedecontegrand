@@ -36,22 +36,22 @@ Full Stack Developer :heart: from Argentina to :earth_americas:
 ## :pushpin: My proyects
 <h3>Videogames Web App</h3>
 <p>
-  <a><img width="40%"  src="https://github.com/fedecontegrand/fedecontegrand/tree/main/images/petStore/PI%20henry%201%20(3).png"></a>
-  <a><img width="40%"  src="https://github.com/fedecontegrand/fedecontegrand/tree/main/images/petStore/PI%20henry%202.png"></a>
-  <a><img width="40%"  src="https://github.com/fedecontegrand/fedecontegrand/tree/main/images/petStore/PI%20henry%203.png"></a>
-  <a><img width="40%" src="https://github.com/fedecontegrand/fedecontegrand/tree/main/images/petStore/PI%20henry%204.png"></a>
-  <a><img width="40%"  src="https://github.com/fedecontegrand/fedecontegrand/tree/main/images/petStore/PI%20henry%205.png"></a>
+  <a><img width="40%"  src="https://github.com/fedecontegrand/fedecontegrand/blob/main/images/petStore/PI%20henry%201%20(3).png"></a>
+  <a><img width="40%"  src="https://github.com/fedecontegrand/fedecontegrand/blob/main/images/petStore/PI%20henry%202.png"></a>
+  <a><img width="40%"  src="https://github.com/fedecontegrand/fedecontegrand/blob/main/images/petStore/PI%20henry%203.png"></a>
+  <a><img width="40%" src="https://github.com/fedecontegrand/fedecontegrand/blob/main/images/petStore/PI%20henry%204.png"></a>
+  <a><img width="40%"  src="https://github.com/fedecontegrand/fedecontegrand/blob/main/images/petStore/PI%20henry%205.png"></a>
 </p>
 
 <h3>Ecommerce WineStore</h3>
 <p>
- <a><img width="40%"  src="https://github.com/fedecontegrand/fedecontegrand/blob/main/images/pedidotopia/image001.png"></a>
- <a><img width="40%"  src="https://github.com/fedecontegrand/fedecontegrand/blob/main/images/pedidotopia/image002.png"></a>
- <a><img width="40%"  src="https://github.com/fedecontegrand/fedecontegrand/blob/main/images/pedidotopia/image003.png"></a>
- <a><img width="40%"  src="https://github.com/fedecontegrand/fedecontegrand/blob/main/images/pedidotopia/image005.png"></a>
- <a><img width="40%"  src="https://github.com/fedecontegrand/fedecontegrand/blob/main/images/pedidotopia/image008.png"></a>
- <a><img width="40%"  src="https://github.com/fedecontegrand/fedecontegrand/blob/main/images/pedidotopia/image011.png"></a>
- <a><img width="40%"  src="https://github.com/fedecontegrand/fedecontegrand/blob/main/images/pedidotopia/image016.png"></a>
+ <a><img width="40%"  src="https://github.com/fedecontegrand/fedecontegrand/tree/main/images/pedidotopia/image001.png"></a>
+ <a><img width="40%"  src="https://github.com/fedecontegrand/fedecontegrand/tree/main/images/pedidotopia/image002.png"></a>
+ <a><img width="40%"  src="https://github.com/fedecontegrand/fedecontegrand/tree/main/images/pedidotopia/image003.png"></a>
+ <a><img width="40%"  src="https://github.com/fedecontegrand/fedecontegrand/tree/main/images/pedidotopia/image005.png"></a>
+ <a><img width="40%"  src="https://github.com/fedecontegrand/fedecontegrand/tree/main/images/pedidotopia/image008.png"></a>
+ <a><img width="40%"  src="https://github.com/fedecontegrand/fedecontegrand/tree/main/images/pedidotopia/image011.png"></a>
+ <a><img width="40%"  src="https://github.com/fedecontegrand/fedecontegrand/tree/main/images/pedidotopia/image016.png"></a>
  
 </p> 
 &nbsp;
