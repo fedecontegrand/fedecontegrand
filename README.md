@@ -46,13 +46,12 @@ Full Stack Developer :heart: from Argentina to :earth_americas:
 <h3>Ecommerce WineStore</h3>
 <p>
  <a><img width="40%"  src="https://github.com/fedecontegrand/fedecontegrand/blob/main/images/pedidotopia/image001.jpg"></a>
- <a><img width="40%"  src="https://github.com/fedecontegrand/fedecontegrand/blob/main/images/pedidotopia/image002.png"></a>
- <a><img width="40%"  src="https://github.com/fedecontegrand/fedecontegrand/blob/main/images/pedidotopia/image003.png"></a>
- <a><img width="40%"  src="https://github.com/fedecontegrand/fedecontegrand/blob/main/images/pedidotopia/image005.png"></a>
- <a><img width="40%"  src="https://github.com/fedecontegrand/fedecontegrand/blob/main/images/pedidotopia/image008.png"></a>
- <a><img width="40%"  src="https://github.com/fedecontegrand/fedecontegrand/blob/main/images/pedidotopia/image011.png"></a>
- <a><img width="40%"  src="https://github.com/fedecontegrand/fedecontegrand/blob/main/images/pedidotopia/image016.png"></a>
- 
+ <a><img width="40%"  src="https://github.com/fedecontegrand/fedecontegrand/blob/main/images/pedidotopia/image002.jpg"></a>
+ <a><img width="40%"  src="https://github.com/fedecontegrand/fedecontegrand/blob/main/images/pedidotopia/image003.jpg"></a>
+ <a><img width="40%"  src="https://github.com/fedecontegrand/fedecontegrand/blob/main/images/pedidotopia/image005.jpg"></a>
+ <a><img width="40%"  src="https://github.com/fedecontegrand/fedecontegrand/blob/main/images/pedidotopia/image008.jpg"></a>
+ <a><img width="40%"  src="https://github.com/fedecontegrand/fedecontegrand/blob/main/images/pedidotopia/image011.jpg"></a>
+ <a><img width="40%"  src="https://github.com/fedecontegrand/fedecontegrand/blob/main/images/pedidotopia/image016.jpg"></a>
 </p> 
 &nbsp;
 
