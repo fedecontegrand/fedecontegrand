@@ -49,12 +49,14 @@ Full Stack Developer :heart: from Argentina to :earth_americas:
  <a><img width="40%"  src="https://github.com/fedecontegrand/fedecontegrand/blob/main/images/pedidotopia/image016.jpg"></a>
 </p> 
 <h3>Videogames Web App</h3>
+<a href="https://youtu.be/Ex7Us7j5gOY" target="_blank">Click to Video</a>
 <p>
-  <a><img width="40%"  src="https://github.com/fedecontegrand/fedecontegrand/blob/main/images/petStore/PI%20henry%201%20(3).png"></a>
-  <a><img width="40%"  src="https://github.com/fedecontegrand/fedecontegrand/blob/main/images/petStore/PI%20henry%202.png"></a>
-  <a><img width="40%"  src="https://github.com/fedecontegrand/fedecontegrand/blob/main/images/petStore/PI%20henry%203.png"></a>
-  <a><img width="40%" src="https://github.com/fedecontegrand/fedecontegrand/blob/main/images/petStore/PI%20henry%204.png"></a>
-  <a><img width="40%"  src="https://github.com/fedecontegrand/fedecontegrand/blob/main/images/petStore/PI%20henry%205.png"></a>
+  <a><img width="40%"  src="https://github.com/fedecontegrand/fedecontegrand/blob/main/images/petStore/PI1.png"></a>
+  <a><img width="40%"  src="https://github.com/fedecontegrand/fedecontegrand/blob/main/images/petStore/PI2.png"></a>
+  <a><img width="40%"  src="https://github.com/fedecontegrand/fedecontegrand/blob/main/images/petStore/PI3.png"></a>
+  <a><img width="40%" src="https://github.com/fedecontegrand/fedecontegrand/blob/main/images/petStore/PI4.png"></a>
+  <a><img width="40%"  src="https://github.com/fedecontegrand/fedecontegrand/blob/main/images/petStore/PI5.png"></a>
+  <a><img width="40%"  src="https://github.com/fedecontegrand/fedecontegrand/blob/main/images/petStore/PI6.png"></a>
 </p>
 
 &nbsp;
