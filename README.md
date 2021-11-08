@@ -10,6 +10,8 @@ Full Stack Developer :heart: from Argentina to :earth_americas:
   
 </p>
 
+<a href="https://fedecontegrand.github.io/fedesportfolio/" target="_blank"> Visit my personal website ! </a>
+
 &nbsp;&nbsp;
 
 ## :star: Languages and Tools:
