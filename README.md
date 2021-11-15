@@ -51,8 +51,8 @@ Full Stack Developer :heart: from Argentina to :earth_americas:
  <a><img width="40%"  src="https://github.com/fedecontegrand/fedecontegrand/blob/main/images/pedidotopia/image016.jpg"></a>
 </p> 
 <h3>Videogames Web App</h3>
-<a href="https://www.youtube.com/watch?v=tjivRgyM8yw" target="_blank"><h4>Click to Video</h4></a> <p>-</p>
-<a href="https://pi-videogames-ft14-a.vercel.app/" target="_blank"><h4>Click to Page</h4></a>
+<a href="https://www.youtube.com/watch?v=tjivRgyM8yw" ><h4>Click to Video</h4></a>
+<a href="https://pi-videogames-ft14-a.vercel.app/"><h4>Click to Page</h4></a>
 <p>
   <a><img width="40%"  src="https://github.com/fedecontegrand/fedecontegrand/blob/main/images/petStore/PI1.png"></a>
   <a><img width="40%"  src="https://github.com/fedecontegrand/fedecontegrand/blob/main/images/petStore/PI2.png"></a>
