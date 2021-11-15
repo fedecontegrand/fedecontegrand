@@ -38,8 +38,8 @@ Full Stack Developer :heart: from Argentina to :earth_americas:
 ## :pushpin: My proyects
 <div>
 <h3>Ecommerce WineStore</h3>
-<a href="https://youtu.be/Ex7Us7j5gOY" target="_blank">Click to Video</a>
-<a href="https://pf-vinos-ecommerce.vercel.app/" target="_blank">Click to Page</a>
+  <h4><a href="https://youtu.be/Ex7Us7j5gOY" target="_blank">Click to Video</a></h4>
+  <h4><a href="https://pf-vinos-ecommerce.vercel.app/" target="_blank">Click to Page</a></h4>
 </div>
 <p>
  <a><img width="40%"  src="https://github.com/fedecontegrand/fedecontegrand/blob/main/images/pedidotopia/image001.jpg"></a>
