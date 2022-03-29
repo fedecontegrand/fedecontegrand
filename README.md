@@ -61,6 +61,13 @@ Full Stack Developer :heart: from Argentina to :earth_americas:
   <a><img width="40%"  src="https://github.com/fedecontegrand/fedecontegrand/blob/main/images/petStore/PI5.png"></a>
   <a><img width="40%"  src="https://github.com/fedecontegrand/fedecontegrand/blob/main/images/petStore/PI7.png"></a>
 </p>
+  
+ <h3>Rick & Morty App</h3>
+<h4><a href="https://www.youtube.com/watch?v=SNJnxo4_MiA" >Click to Video</a></h4>
+<p>
+  <a><img width="80%"  src="https://github.com/fedecontegrand/valienta/blob/master/landingRick.jpg"></a>
+</p>
+ 
 
 &nbsp;
 
