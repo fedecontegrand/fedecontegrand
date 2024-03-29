@@ -6,7 +6,7 @@ Full Stack Developer :heart: from Argentina to :earth_americas:
 
 <p>
   Hi visitor 👋 ! I'm Fede, a full stack enthusiast with a JavaScript based formation and with my strong side on frontend development with React. You can see the mainly languages/frameworks/tools wich I work with below! <br></br>
-  Always atractted by tech, I'm in IT after five years studying Engineering. I Love adding value using my head in stead of my physical effort, working with people with a high    level of energy, on a constant-learning environment philosphy.
+  Always atractted by tech, I'm in IT after five years studying Engineering. I Love adding value using my head in stead of my physical effort, working with people with a high    level of energy, on a constant-learning environment philosophy.
   
 </p>
 
